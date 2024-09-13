@@ -1,6 +1,3 @@
-Here’s the cleaned-up version of your README for GitHub:
-
----
 
 # Data Pipelines & Apache Airflow 101
 
