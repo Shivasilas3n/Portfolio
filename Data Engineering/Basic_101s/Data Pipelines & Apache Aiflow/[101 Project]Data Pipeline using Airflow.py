@@ -3,7 +3,7 @@ from airflow.operators.python_operator import PythonOperator
 from datetime import datetime, timedelta
 import requests
 import pandas as pd
-import boto3
+import boto3 # to interact with AWS 
 import os
 
 # Airflow DAG configuration
