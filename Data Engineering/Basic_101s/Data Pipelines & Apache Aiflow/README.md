@@ -1,6 +1,8 @@
 
 # Data Pipelines & Apache Airflow 101
 
+![DAG Example]([https://airflow.apache.org/docs/apache-airflow/stable/_images/subdag_before.png](https://www.qubole.com/wp-content/uploads/2021/02/image1.png))
+
 ### Data Pipelines for Data Engineers
 - Automate data extraction, transformation, and loading (ETL) processes.
 - Apache Airflow efficiently manages complex workflows using Directed Acyclic Graphs (DAGs), which are more scalable than Cron jobs.
